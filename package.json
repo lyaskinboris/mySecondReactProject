@@ -1,0 +1,34 @@
+{
+  "name": "my-second-react-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open",
+    "build": "webpack --mode production"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-react": "^6.24.1",
+    "less": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-redux": "^5.0.7",
+    "react-router": "*",
+    "react-router-dom": "^4.2.2",
+    "redux": "^3.7.2",
+    "source-map-loader": "^0.2.3",
+    "style-loader": "^0.20.3"
+  },
+  "devDependencies": {
+    "babel": "*",
+    "babel-loader": "*",
+    "css-loader": "^0.28.11",
+    "less-loader": "*",
+    "react-hot-loader": "*",
+    "webpack": "*",
+    "webpack-cli": "*",
+    "webpack-dev-server": "*"
+  }
+}
