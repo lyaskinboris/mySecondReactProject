@@ -11,9 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "babel-preset-react": "^6.24.1",
-    "less": "*",
-    "react": "*",
-    "react-dom": "*",
+    "less": "^3.0.1",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
     "react-redux": "^5.0.7",
     "react-router": "*",
     "react-router-dom": "^4.2.2",
@@ -22,13 +22,13 @@
     "style-loader": "^0.20.3"
   },
   "devDependencies": {
-    "babel": "*",
-    "babel-loader": "*",
+    "babel-loader": "^7.1.4",
+    "babel-core": "^6.26.0",
     "css-loader": "^0.28.11",
-    "less-loader": "*",
-    "react-hot-loader": "*",
-    "webpack": "*",
-    "webpack-cli": "*",
-    "webpack-dev-server": "*"
+    "less-loader": "^4.1.0",
+    "react-hot-loader": "^4.0.0",
+    "webpack": "^4.20.0",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.9"
   }
 }
